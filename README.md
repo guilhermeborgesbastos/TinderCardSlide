@@ -9,7 +9,8 @@ Complete component for those who need a deck of dynamic and interactive charts f
 ## Installation
 Just import the Git project to your editor (Android Studio / Eclipse, etc ...)
 
-## Configurações e informações úteis ##
+## Settings and useful information
+
 
 #### Populating the cards
 In SlideCardFragment.java file (See file: https://goo.gl/BqJaNp), we have the following code:
